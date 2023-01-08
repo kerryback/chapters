@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Interactive Investments Notes with Python"
+  author: "Kerry Back"
+  date: "1/8/2023"
+  chapters:
+    - index.qmd
+    - miracle.qmd
+    
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    toc-title: Chapter contents
+
+execute:
+  freeze: auto
+  echo: false
+
+fig-cap-location: top
+
+comments:
+  hypothesis: true
+
