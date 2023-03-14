@@ -1,4 +1,4 @@
 # Preface {.unnumbered}
 
-This is the beginning of what may become a more complete set of notes on investments oriented towards MBA and Masters students.  The innovations include interactive figures and instructions for computations and data analysis with python.
+This is the beginning of what may become a more complete set of notes on investments oriented towards MBA and Masters students.  The innovations include interactive figures and python code.
 
