@@ -16,6 +16,12 @@ format:
     toc: true
     toc-depth: 2
     toc-title: Chapter contents
+    code-block-background: false
+    code-block-border-left: true
+    
+    
+
+
 
 execute:
   freeze: auto
