@@ -16,8 +16,9 @@ format:
     toc: true
     toc-depth: 2
     toc-title: Chapter contents
-    code-block-background: false
-    code-block-border-left: true
+    code-fold: true
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
     
     
 
@@ -25,7 +26,7 @@ format:
 
 execute:
   freeze: auto
-  echo: false
+
 
 fig-cap-location: top
 
