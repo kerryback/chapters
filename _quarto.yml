@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Interactive Investments Notes with Python"
+  title: "Introduction to Quantitative Finance"
   author: "Kerry Back"
   date: "1/8/2023"
   chapters:

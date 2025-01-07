@@ -1,4 +1,4 @@
 # Preface {.unnumbered}
 
-This is the beginning of what may become a more complete set of notes on investments oriented towards MBA and Masters students.  The innovations include interactive figures and python code.
+This is Chapter 1 of a "book" that may never progress any further.
 
