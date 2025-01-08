@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Introduction to Quantitative Finance"
+  title: "Investments"
   author: "Kerry Back"
   date: "1/8/2023"
   chapters:
