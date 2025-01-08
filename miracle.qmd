@@ -258,10 +258,10 @@ where the nominal return is the return before adjustment for inflation (10% in o
 
 We can compound real returns the same way we compounded returns earlier.  Let $r$ denote the real return, $i$ denote the inflation rate, and $z$ denote the nominal return (all in decimal form).  Adding 1 to both sides of the equation for the real return gives
 $$1+r = \frac{z-i}{1+i} + 1 = \frac{1+z}{1+i}.$$
-To calculate what $1 grows to in constant dollars over a period of $n$ years, we calculate 
+To calculate what \$1 grows to in constant dollars over a period of $n$ years, we calculate 
 $$(1+r_1)(1+r_2) \cdots (1+r_n)$$ where the $r_i$ are the real returns.  By the above formula,
 $$(1+r_1) \cdots (1+r_n) = \frac{(1+z_1) \cdots (1+z_n)}{(1+i_1) \cdots (1+i_n)}.$$
-The numerator on the right hand side is what $1 grows to in nominal dollars.  The denominator is the growth in the price index.  To be specific, the denominator is
+The numerator on the right hand side is what \$1 grows to in nominal dollars.  The denominator is the growth in the price index.  To be specific, the denominator is
 $$\frac{\text{CPI at end of year $n$}}{\text{CPI at beginning of year 1}}.$$
 Thus, the real return over a period of years equals the nominal return over the period with the growth in the CPI divided out.
 
